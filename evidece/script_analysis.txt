@@ -1,0 +1,5 @@
+The VBScript files were used to execute commands silently using Windows Script Host.
+
+The batch file likely executed system-level commands or triggered the executable payload.
+
+Indicators suggest a chained execution mechanism designed for persistence.
