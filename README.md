@@ -5,13 +5,13 @@ This repository documents a real-world security incident involving unauthorized 
 
 ## 🚨 Key Findings
 - Unauthorized AutoHotkey execution
-- Malicious scripts in Public directory
+- Malicious scripts in the Public directory
 - Multi-stage payload (.vbs → .bat → .exe)
 - Persistence mechanism outside standard startup
 
 ## 🔍 Highlights
 - Identified execution path using command-line analysis
-- Detected misuse of `C:\Users\Public` directory
+- Detected misuse of the `C:\Users\Public` directory
 - Removed persistence via Task Scheduler and registry cleanup
 
 ## 📂 Full Report
