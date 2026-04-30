@@ -1,0 +1,7 @@
+Type,Value,Description
+File Path,C:\Users\Public\Documents\PicsArt,Malicious directory
+File Path,C:\Users\Public\Torrent,Secondary payload location
+File Name,example.exe,Primary payload
+Script,PicsArtAppampro.vbs,Initial execution script
+Script,run.vbs,Secondary execution script
+Script,1.bat,Command execution file
