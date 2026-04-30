@@ -1,0 +1,12 @@
+# ⚙️ Attack Chain Analysis
+
+## Flow
+
+1. VBScript executed silently
+2. Batch file triggered system commands
+3. Executable launched payload
+4. AutoHotkey used for repeated execution
+5. Persistence maintained via system triggers
+
+## Summary
+.vbs → .bat → .exe → AutoHotkey → persistence
