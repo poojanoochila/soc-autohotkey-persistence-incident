@@ -25,7 +25,7 @@ Screenshots, and analysis available in `/evidence`
 - Process analysis
 - Persistence identification
 - Incident response & remediation
-- Basic malware analysis
+- Basic malware analy
 
 ## 🧠 Note
 This investigation was conducted on a personal system to analyze real-world persistence techniques.
