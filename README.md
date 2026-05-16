@@ -20,7 +20,7 @@ See: [incident_report.md](incident_report.md)
 ##  Evidence
 Screenshots and analysis available in `/evidence.`
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 - Threat detection
 - Process analysis
 - Persistence identification
