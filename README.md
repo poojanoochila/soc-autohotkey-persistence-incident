@@ -9,7 +9,7 @@ This repository documents a real-world security incident involving unauthorized 
 - Multi-stage payload (.vbs → .bat → .exe)
 - Persistence mechanism outside standard startup
 
-## 🔍 Highlights
+##  Highlights
 - Identified execution path using command-line analysis
 - Detected misuse of the `C:\Users\Public` directory
 - Removed persistence via Task Scheduler and registry cleanup
