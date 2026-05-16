@@ -1,4 +1,4 @@
-# 🛡️ SOC Incident: AutoHotkey Persistence Malware Investigation
+#  SOC Incident: AutoHotkey Persistence Malware Investigation
 
 ## 📌 Overview
 This repository documents a real-world security incident involving unauthorized script-based persistence on a Windows system. The investigation identified and removed a multi-stage execution chain leveraging AutoHotkey and Windows scripting.
