@@ -17,8 +17,8 @@ This repository documents a real-world security incident involving unauthorized 
 ##  Full Report
 See: [incident_report.md](incident_report.md)
 
-## 📁 Evidence
-Screenshots and analysis available in `/evidence`
+##  Evidence
+Screenshots and analysis available in `/evidence.`
 
 ## 🎯 Skills Demonstrated
 - Threat detection
