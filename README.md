@@ -3,7 +3,7 @@
 ##  Overview
 This repository documents a real-world security incident involving unauthorized script-based persistence on a Windows system. The investigation identified and removed a multi-stage execution chain leveraging AutoHotkey and Windows scripting.
 
-## 🚨 Key Findings
+##  Key Findings
 - Unauthorized AutoHotkey execution
 - Malicious scripts in the Public directory
 - Multi-stage payload (.vbs → .bat → .exe)
