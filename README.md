@@ -14,7 +14,7 @@ This repository documents a real-world security incident involving unauthorized 
 - Detected misuse of the `C:\Users\Public` directory
 - Removed persistence via Task Scheduler and registry cleanup
 
-## 📂 Full Report
+##  Full Report
 See: [incident_report.md](incident_report.md)
 
 ## 📁 Evidence
